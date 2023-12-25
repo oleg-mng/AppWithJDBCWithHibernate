@@ -13,8 +13,6 @@ public class Main {
 
         prepareState(connection);
 
-
-
         connection.close();
     }
 
